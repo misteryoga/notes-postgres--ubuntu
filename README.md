@@ -26,3 +26,6 @@ sudo -u postgres createdb yogatest
 ### Command
 quite || \q
 => quite from postgres
+
+\conninfo
+=> info environment
